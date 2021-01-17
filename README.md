@@ -3,3 +3,7 @@ This is a collection of markup documents which is about what I've learned from n
 
 ## Syllabus:card_index_dividers:
 - React 
+- Git
+- C# 
+- Unit Test
+- ASP.NET
